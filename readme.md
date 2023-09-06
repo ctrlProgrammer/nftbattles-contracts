@@ -153,9 +153,14 @@ You will be able to use all the NFTs on the network so when we deploy it on the 
 
 ### OPBNB
 
-- Digitalization controller:
-- Digitalization Storage:
-- Crate digitalizator:
+- Digitalization controller: The contract will be the relation between the backend and the blockchain, when the user uses the blockchain to digitalize NFTs we will detect it and the backend will gamefi all the NFTs. Contract address: 0xEd3098B6b4269bF1254C5094B67eD7F3599Bf517 [OPBNB scan](https://opbnbscan.com/address/0xEd3098B6b4269bF1254C5094B67eD7F3599Bf517)
+
+- Digitalization Storage: Will be the storage of the digitalizations. All the information about the users will be saved on this contract. Contract address: 0xF63B4487b4BFcF5a9a7aF2F41b1C2aFa25427e52 [OPBNB scan](https://opbnbscan.com/address/0xF63B4487b4BFcF5a9a7aF2F41b1C2aFa25427e52)
+
+- Crate digitalizator: When the user uses tokens to generate treasure chests use this contract as a payment method to generate it. We collect tokens on chain and then generate digital treasure chests on the backend. Contract address: 0xF01Da75DD4948201Bcd6e8218C3EF37Fe80AAd5A [OPBNB scan](https://opbnbscan.com/address/0xF01Da75DD4948201Bcd6e8218C3EF37Fe80AAd5A)
+
+- Crate wrapper: COnvert digital treasure chest on onchain NFTs, it will be only available when the users want to use a different NFTs marketplace to sell their assets. For now it would not be deployed because we will use the digital system.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
