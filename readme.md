@@ -51,6 +51,7 @@
 ## About The Project
 
 **Note: All the contracts that you'll utilize within the DAPP are open source and can be found in this repository.**
+**Note: The contracts and the tutorial is only related with the Web DAPP, the game aplications development will be private to secure our develoipment rights also the contracts related to the application will be open source and will have a reveal when we finish it.**
 
 NFTBattles is a real-time multiplayer game that allows users to battle each other using their own NFTs. The game is currently in beta testing and is free to download.
 
@@ -145,6 +146,16 @@ You will be able to use all the NFTs on the network so when we deploy it on the 
 - [x] Create our game prototype.
 - [ ] Open the game for our early investors.
 - [ ] Launch the project on a big launchpad.
+
+<!--Deployed contracts-->
+
+##Deployed contracts
+
+### OPBNB
+
+- Digitalization controller:
+- Digitalization Storage:
+- Crate digitalizator:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
